@@ -1,2 +1,2 @@
-new commit
-hello
+My first Git
+hi
